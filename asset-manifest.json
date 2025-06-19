@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Netflix-ni-Kharie/static/css/main.5f77af32.css",
+    "main.js": "/Netflix-ni-Kharie/static/js/main.b22d7789.js",
+    "static/js/453.1c29ee80.chunk.js": "/Netflix-ni-Kharie/static/js/453.1c29ee80.chunk.js",
+    "static/media/banner.jpg": "/Netflix-ni-Kharie/static/media/banner.4e530248b57851259f44.jpg",
+    "static/media/background_banner.jpg": "/Netflix-ni-Kharie/static/media/background_banner.303a83aff58191b99963.jpg",
+    "static/media/title.png": "/Netflix-ni-Kharie/static/media/title.7c16bbd902fdd617d359.png",
+    "static/media/logo.png": "/Netflix-ni-Kharie/static/media/logo.6521ee8dd0b9223ba3b5.png",
+    "static/media/bell_icon.svg": "/Netflix-ni-Kharie/static/media/bell_icon.0462b63671476e5256a99e7cc1a42bc0.svg",
+    "index.html": "/Netflix-ni-Kharie/index.html",
+    "static/media/search_icon.svg": "/Netflix-ni-Kharie/static/media/search_icon.59429cd0003678c5368450ea61101e56.svg",
+    "static/media/caret_icon.svg": "/Netflix-ni-Kharie/static/media/caret_icon.0d0a268cfa90dc1d8acf717a337a30cf.svg",
+    "main.5f77af32.css.map": "/Netflix-ni-Kharie/static/css/main.5f77af32.css.map",
+    "main.b22d7789.js.map": "/Netflix-ni-Kharie/static/js/main.b22d7789.js.map",
+    "453.1c29ee80.chunk.js.map": "/Netflix-ni-Kharie/static/js/453.1c29ee80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f77af32.css",
+    "static/js/main.b22d7789.js"
+  ]
+}

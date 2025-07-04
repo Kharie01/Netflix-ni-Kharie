@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Netflix-ni-Kharie/static/css/main.5f77af32.css",
-    "main.js": "/Netflix-ni-Kharie/static/js/main.b22d7789.js",
+    "main.js": "/Netflix-ni-Kharie/static/js/main.d3403436.js",
     "static/js/453.1c29ee80.chunk.js": "/Netflix-ni-Kharie/static/js/453.1c29ee80.chunk.js",
     "static/media/banner.jpg": "/Netflix-ni-Kharie/static/media/banner.4e530248b57851259f44.jpg",
     "static/media/background_banner.jpg": "/Netflix-ni-Kharie/static/media/background_banner.303a83aff58191b99963.jpg",
@@ -12,11 +12,11 @@
     "static/media/search_icon.svg": "/Netflix-ni-Kharie/static/media/search_icon.59429cd0003678c5368450ea61101e56.svg",
     "static/media/caret_icon.svg": "/Netflix-ni-Kharie/static/media/caret_icon.0d0a268cfa90dc1d8acf717a337a30cf.svg",
     "main.5f77af32.css.map": "/Netflix-ni-Kharie/static/css/main.5f77af32.css.map",
-    "main.b22d7789.js.map": "/Netflix-ni-Kharie/static/js/main.b22d7789.js.map",
+    "main.d3403436.js.map": "/Netflix-ni-Kharie/static/js/main.d3403436.js.map",
     "453.1c29ee80.chunk.js.map": "/Netflix-ni-Kharie/static/js/453.1c29ee80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f77af32.css",
-    "static/js/main.b22d7789.js"
+    "static/js/main.d3403436.js"
   ]
 }
